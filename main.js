@@ -27,3 +27,6 @@ switch (operacion) {
 
 // Mostrar el resultado en la consola
 console.log(`El resultado de la ${operacion} es: ${resultado}`);
+prompt("Ingresa tu nombre");
+let msg = "Hola, " + nombre
+console.log(msg);
